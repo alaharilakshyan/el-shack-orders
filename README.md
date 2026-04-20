@@ -1,9 +1,3 @@
-# 🚀 EL Shack Orders – README.md
-
-Here’s a **well-structured, production-level README** 👇
-
----
-
 ## 📌 Project Title
 
 **EL Shack Orders – Online Food Ordering System**
